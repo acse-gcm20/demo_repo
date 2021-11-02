@@ -1,3 +1,3 @@
-print("Hello world")
-print("Goodbye")
-print("It's me again")
+import calc
+
+print(calc.add(1,2))
